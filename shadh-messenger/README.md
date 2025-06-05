@@ -1,2 +1,3 @@
-# shadh Messenger
-A real-time chat and media sharing app.
+# Shadh Messenger - Phase 3
+
+Full login system, profile photo, Apple UI, WhatsApp layout.
